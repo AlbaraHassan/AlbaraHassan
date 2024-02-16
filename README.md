@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlbaraHassan&label=Profile%20views&color=0e75b6&style=flat" alt="AlbaraHassan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlbaraHassan&theme=" alt="AlbaraHassan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlbaraHassan&theme=dracula" alt="AlbaraHassan" /></a> </p>
 
 - 💬 Ask me about **Nestjs, NextJs**
 - 📫 How to reach me **albara.m.hassan@gmail.com**
